@@ -12,3 +12,6 @@ A collection of notebooks crated during the physics lab experiments conducted at
 
 # 2. Pendulum
 > [Pendulum Lab experiment Report](https://jovian.ai/ranton95/pendulum-exp-2)
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=royceanton.Physics-experiments)
